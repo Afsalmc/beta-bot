@@ -30,4 +30,4 @@ This project is derived from
                          1) Python-Telegram-Bot of https://python-telegram-bot.org/
                          2) chatterbot project of https://chatterbot.readthedocs.io/
 
-For furthur investigation and deep diving into the code plaese consider the root project's documentations given above . 
+For furthur investigation and deep diving into the code please consider the root project's documentations given above . 

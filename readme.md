@@ -5,7 +5,7 @@ FEATURES :-
 -> Can be trained to understand any language  ( In the above code english communcation traning is provided ) .
 -> Understands emotions of user (using textblob AI library bot comments on user's mood when a sad sentence is detected by bot ) .
 
-Dependencies :-
+Installing Dependencies :-
 ------------
 
 -> Textblob 
